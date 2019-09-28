@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "506402180905",
+    "firebase_url": "https://cukur-fa2ca.firebaseio.com",
+    "project_id": "cukur-fa2ca",
+    "storage_bucket": "cukur-fa2ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506402180905:android:9cccc32af1d3f2e2",
+        "android_client_info": {
+          "package_name": "com.example.cukur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506402180905-u0pn59ofl4k45ufqfdb8f719ch4a2jdm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cukur",
+            "certificate_hash": "6817030204ed16a8b0b5634756dce3d74bb1fde6"
+          }
+        },
+        {
+          "client_id": "506402180905-6ro0sc54la3vmhnmiarf3md3nom0c8tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM0wqm6BS1jKbW5AeF-7BrYoj2PnxOsC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506402180905-6ro0sc54la3vmhnmiarf3md3nom0c8tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
